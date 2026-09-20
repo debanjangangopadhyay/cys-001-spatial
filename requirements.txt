@@ -4,7 +4,7 @@ streamlit==1.38.0
 asciitree==0.3.3
 zarr==2.18.2
 numcodecs==0.12.1
-ome-zarr==0.8.4
+ome-zarr==0.8.3
 spatialdata==0.2.1
 squidpy==1.5.0
 scanpy==1.10.2
