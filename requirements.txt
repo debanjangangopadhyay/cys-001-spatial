@@ -1,8 +1,10 @@
---only-binary :all:
 --prefer-binary
 
 # UI
 streamlit>=1.35.0,<1.40.0
+
+# Required pure-python dependency for zarr 2.x
+asciitree
 
 # Scientific & Spatial Stack (Zarr 2 ecosystem)
 zarr>=2.16.0,<3.0.0
