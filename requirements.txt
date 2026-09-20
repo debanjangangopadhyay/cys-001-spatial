@@ -1,3 +1,5 @@
+setuptools>=68.0.0
+wheel>=0.40.0
 streamlit==1.32.0
 scanpy==1.10.0
 squidpy==1.4.1
